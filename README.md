@@ -30,7 +30,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/amirothman" title="Click here for my LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a> &nbsp; 
   <a href="https://discord.com/amyyr_othman" title="Click here for my Discord"><img src="https://skillicons.dev/icons?i=discord" alt="Discord"></a> &nbsp; 
-  <a href="https://twitter.com/amyr_othman" title="Click here for my Twitter"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"></a> &nbsp; 
+  <a href="https://twitter.com/amyr_gov" title="Click here for my Twitter"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"></a> &nbsp; 
   <a href="mailto:amir.othman@esprit.tn" title="Click here to email me"><img src="https://skillicons.dev/icons?i=gmail" alt="Email"></a>
 </p>
 
